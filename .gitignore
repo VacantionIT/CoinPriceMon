@@ -16,3 +16,7 @@
 vendor/
 
 .vscode/
+
+.env
+coinmonserver
+
